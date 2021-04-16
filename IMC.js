@@ -2,7 +2,7 @@
 function resultado(){
     
     let imc;
-    let peso = document.getElementById("Peso")
+    let peso = document.getElementById("peso")
     let altura = document.getElementById("altura")
 
     imc = peso / altura * altura;
