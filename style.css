@@ -39,3 +39,8 @@ button {
   align-content: center;
   text-align: center;
 }
+
+#btn_click {
+  border-radius: 15px;
+  padding: 10px;
+}

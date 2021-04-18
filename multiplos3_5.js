@@ -11,7 +11,7 @@ for(i=0;i<=1000;i++){
 }
 */
 
-while(i <= 1000){
+while(i < 1000){
     if(i % mult5 ===  0  || i %  mult3  === 0){
         console.log(  i  +  i)
     }
